@@ -1,3 +1,4 @@
+https://scratch.mit.edu/projects/1014836978/editor
 - O jogo terá um menu temático com o botão 'começar' centralizado;
 
 - Na primeira cena, o protagonista aparece num cenário de cidade cinza, se houve névoa melhor ainda. Há lixo pelo chão e tocos de árvores nas calçadas;
