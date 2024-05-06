@@ -1,0 +1,12 @@
+- O jogo terá um menu temático com o botão 'começar' centralizado;
+
+- Na primeira cena, o protagonista aparece num cenário de cidade cinza, se houve névoa melhor ainda. Há lixo pelo chão e tocos de árvores nas calçadas;
+	- Nesta cena, tudo que se pode fazer é andar até o outro lado da tela. Uma seta no cenário pode indicar o caminho;
+
+- Na cena 2, o cenário não está muito diferente, mas dessa vez há três NPCs, em que cada um funcionará como 'portal' para a fase do jogo
+	- Ao interagir com o NPC 1, ele diz algo sobre a importância de não jogar lixo na rua e completa com algo do tipo 'Se tivéssemos pensado nisso antes, a cidade não estaria assim' e então surge um novo botão de interação para prosseguir;
+	- A fase 1 é apenas sobre retirar sacos de lixo do caminho antes da água alcançar o outro lado da tela. Isso pode ser feito com plataformas estilo Mario para dificultar o processo e a água pode ser apenas uma cortina azul surgindo da esquerda e avançando devagar até o outro lado da tela;
+	- Se o jogador conseguir passar, um novo portal surge em algum lugar no cenário e o leva de volta para a cena 2, com intuito de conversar com o NPC 2;
+	- Se o jogador não conseguir, surge o menu na tela com os botões:
+	1. Tentar de novo (reinicia a fase)
+	2. Sair (reseta o progresso e volta para a tela de início do jogo)
