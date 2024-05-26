@@ -1,2 +1,2 @@
 ## Jogo disponível em:
-https://scratch.mit.edu/projects/1014929528
+https://scratch.mit.edu/projects/1024468474/
